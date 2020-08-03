@@ -1,0 +1,332 @@
+{
+    "name": "powex Repo",
+    "identifier": "com.github.powex",
+    "apps": [
+        {
+            "name": "Spotify",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "julioverne",
+            "subtitle": "Spotify but free",
+            "version": "1.0",
+            "versionDate": "2020-03-24T00:00:00-00:00",
+            "versionDescription": "None.",
+            "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa",
+            "localizedDescription": "Spotify but free",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+            "tintColor": "52a04b",
+            "size": 22000000,
+            "screenshotURLs": [
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png",
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png",
+                "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"
+            ]
+        },
+        {
+            "name": "McHack",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "julioverne",
+            "subtitle": "Spotify but free",
+            "version": "1.0",
+            "versionDate": "2020-03-24T00:00:00-00:00",
+            "versionDescription": "None.",
+            "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa",
+            "localizedDescription": "Spotify but free",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+            "tintColor": "52a04b",
+            "size": 22000000,
+            "screenshotURLs": [
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png",
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png",
+                "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"
+            ]
+        },
+        {
+            "name": "Calm",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "julioverne",
+            "subtitle": "Spotify but free",
+            "version": "1.0",
+            "versionDate": "2020-03-24T00:00:00-00:00",
+            "versionDescription": "None.",
+            "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa",
+            "localizedDescription": "Spotify but free",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+            "tintColor": "52a04b",
+            "size": 22000000,
+            "screenshotURLs": [
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png",
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png",
+                "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"
+            ]
+        },
+        {
+            "name": "Unfold++",
+            "bundleIdentifier": "com.lightricks.Enlight-Video",
+            "developerName": "syto203",
+            "subtitle": "Unfold — Stories Editor & Collage Maker",
+            "version": "4.12.3",
+            "versionDate": "2019-06-28T14:30:00-07:00",
+            "versionDescription": "Bug fixes. Updated Unfold to 4.12.3",
+            "downloadURL": "https://dl.orangedox.com/PandaApp/17?dl=1",
+            "localizedDescription": "\n\nUnfold is a toolkit for storytellers. Create beautiful and engaging stories from minimal and elegant templates.\n\nEnables the following templates in Unfold:\n\n• DW1\n• DW2\n• NINE\n• Art\n• RP1\n• RP2\n•FF1\n•FF2\n•JN1\n•CS1\n•CS2\n•CS3\n•Love 2\n\nDoesn't Enable Fonts or Love,Pride and RED templates.",
+            "iconURL": "https://minimaron.com/wp-content/uploads/2019/05/18699426_1914339145473482_2825554124753608796_o.jpg",
+            "tintColor": "95b5d6",
+            "size": 89312385,
+            "screenshotURLs": [
+              "https://i.imgur.com/W2j590N.png",
+          "https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
+          "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
+          "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
+          "https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
+          "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
+          "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
+          "https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
+            ]
+          },
+          {
+            "name": "Instagram++",
+            "bundleIdentifier": "com.instagram.apprefresh",
+            "developerName": "Rocket Team",
+            "subtitle": "Instagram 123.0 | Rocket 3.6.8 | NoAds",
+            "version": "123.0",
+            "versionDate": "2019-06-28T14:30:00-07:00",
+            "versionDescription": "Bug fixes.",
+            "downloadURL": "https://dl.orangedox.com/PandaApp/4?dl=1",
+            "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
+            "iconURL": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
+            "tintColor": "BA55D3",
+            "size": 65383246,
+            "screenshotURLs": [
+              "https://i.imgur.com/hQDBkcn.jpg",
+          "https://i.imgur.com/sXWyhUO.jpg",
+          "https://i.imgur.com/UA5IKKv.jpg"
+            ]
+          },
+          {
+            "name": "Twitter++",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "developerName": "UnlimApps",
+            "subtitle": "Get unlimited feature on Twitter",
+            "version": "8.14",
+            "versionDate": "2020-04-15T14:30:00-07:00",
+            "versionDescription": "Sharing Enhancements.",
+            "downloadURL": "https://dl.orangedox.com/PandaApp/15?dl=1",
+            "localizedDescription": "Sharing Enhancements\n• Share Links - Share links from tweets by long pressing on them to bring up the iOS share screen\n• Share Images - Share images from tweets by long pressing on them to bring up the iOS share screen\n• Tweets Sharing - Allows you to directly share the tweet outside of Twitter (long press in timeline or 3 dots).\n• GIF and Vine Share/Save - Allows you to save locally or share GIFS and Vines effectively. Access by long clicking on the GIF when it is fully open (the display view)\n• Image/Video Share/Save - Allows you to save locally or share images and videos. Access by long clicking on the Image or Video either in the timeline or the display view (when it is fully open)\n• Direct Message Share - Allows you to share messages from a direct message through the iOS share sheet.\n\nApp Integrations\n• Direct Download Youtube Videos - Download youtube videos from twitter to your phone.\n• Youtube Integration - Set Youtube links to open in Youtube app or with the Twitter built in player.\n• Instagram Links - Set Instagram links to open in Instagram app or with the Twitter built in media service.\n• Browser Integration - Set if you want links to be opened in Twitter default browser or other browser on your phone (Supported Browsers: Chrome, Opera, Dolphin, Atomic, iCab, Puffin).\n\nAdditional Enhancements\n• Image/Video Download - Download images and videos to your device to watch later.\n• Show Keyboard on Compose - Instead of being shown the media screen, have the keyboard show up on compose.\n• Automatic Long Tweet Creation - For tweets that are over 140 Chars, Twitter ++ allows you to automatically post tweet as an image or using pastebin.\n• Easier List Access - Finally start using lists to organize Twitter! List button added to the main feed back for easy access.\n• Confirm Favorite - Bring up confirmation screen when favoriting a tweet.\n• Hide Follow in Tweet - Remove the follow button on tweets.\n• Remove Status Bar - Enable full screen view for twitter by hiding the top status bar.\n• Timeline Badges - In the timeline, show verified badges for users.\n• View Blocked Profiles - Continue seeing tweets and profiles of users how have blocked you.",
+            "iconURL": "https://www.uniquepac.com/images/twitter_icon.png",
+            "tintColor": "00adef",
+            "size": 78910461,
+            "screenshotURLs": [
+              "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/eb/a5/2feba566-bcdb-5411-dba2-32a3eef686b8/pr_source.png/1000x1000bb.png",
+              "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/76/7e/79767ec9-134d-62a4-1824-6912de017e24/mzl.svdgjlai.png/1000x1000bb.png",
+              "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/e6/9f/96e69f82-658d-8786-b751-3b168c775e12/mzl.anjpmvof.png/1000x1000bb.png",
+              "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/97/8d/ba978d1d-5d52-8916-23b2-34b87c340562/mzl.grtamtoc.png/1000x1000bb.png",
+              "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/0e/14/3c0e1420-6f88-aef6-b077-ca6a79cbc9f4/mzl.fplbrgrt.png/1000x1000bb.png"
+            ]
+          },
+          { 
+            "name": "YouTube++",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Cercube Team",
+            "subtitle": "YouTube 15.15.1 | Cercube 5.1.17",
+            "version": "15.15.1",
+            "versionDate": "2020-04-19T14:30:00-07:00",
+            "versionDescription": "📹 Updated to YouTube 15.15.1 | Cercube 5.1.17\n\n• Support PiP on iPhones running iOS 13.\n• Fixed invalid parameters error when try to save videos.\n• Fixed Google account login issues.\n• Fixed incompatibility with Little11.\n• Other bug fixes and stability improvements.\n\n— Panda App 🐼",
+            "downloadURL": "https://dl.orangedox.com/PandaApp.Cercube5.1.17?dl=1",
+            "localizedDescription": "Adds new features to YouTube:\n\n• Download and save videos up to 4k resolution\n• Save videos as audio only\n• View, manage and share all your downloads in Cercube's download manager\n• Block ads\n• Share downloaded videos with other devices via AirDrop\n• Background playback for streamed and downloaded videos\n• Import downloads to Music or Videos\n• Play YouTube videos using Picture-in-Picture mode\n• Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\n• Choose the default tab to open when launching YouTube\n• Stream videos in HD on cellular network\n• Auto-replay videos\n• Hide floating upload button\n• Hide the Trending tab\n• Rewind or forward videos\n• Cercube options are configurable from within YouTube settings\n• Play in high quality on Mobile Data",
+            "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png",
+            "tintColor": "FF4500",
+            "size": 91936890,
+            "permissions": [
+              {
+                "type": "photos",
+                "usageDescription": "This lets you upload videos you've already created."
+              },
+              {
+                "type": "contacts",
+                "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+              },
+              {
+                "type": "microphone",
+                "usageDescription": "This lets you include audio with your videos and search using your voice."
+              },
+              {
+                "type": "location",
+                "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+              }
+            ],
+            "screenshotURLs": [
+              "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/74/03/b8740367-2dcf-6a0c-d738-be91b34281ab/mzl.ksabbijd.png/1000x1000bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/0d/36/c20d36a4-c4f2-a27d-012d-fceeddea392b/mzl.wqtsgyvi.png/1000x1000bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/c3/28/ed/c328ed06-2f1f-3380-1665-68c921553d4c/mzl.ehrowzdv.png/1000x1000bb.png",
+          "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/78/c5/17/78c517e1-21a9-40a6-1163-0dd919136c54/mzl.loxwfgsa.png/1000x1000bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/8f/8e/a28f8eaf-a227-3215-5c36-fa8976772c30/mzl.xeupxvot.png/1000x1000bb.png"      ]
+          },
+          {
+            "name": "VK++",
+            "bundleIdentifier": "com.vk.vkclient.vkm.refresh",
+            "developerName": "VK App",
+            "subtitle": "VK 5.31.2 | VK++ 0.32b | ColoredVK",
+            "version": "5.31.2",
+            "versionDate": "2020-03-25T14:00:00-07:00",
+            "versionDescription": "",
+            "downloadURL": "https://dl.orangedox.com/PandaApp/18?dl=1",
+            "localizedDescription": "Клиент VK с новым твиком VK++ с огромным количеством дополнительных настроек, с рабочей музыкой, без рекламы, возможностью изменять цвета и ставить фотографии в меню и диалогах и многим другим.\n\nP.S. Много функций может не работать, твик давно не обновляли.",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/e2/c2/6de2c27c-4c36-0d0d-1845-56b7e58522b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
+            "tintColor": "1E90FF",
+            "size": 98968906,
+            "beta": true,
+            "screenshotURLs": [
+              "https://i.imgur.com/n0te9wW.jpg",
+              "https://i.imgur.com/PwDus1S.jpg",
+              "https://i.imgur.com/CiDk957.jpg",
+              "https://i.imgur.com/xZMwiLZ.jpg",
+              "https://i.imgur.com/tFRnZKW.jpg",
+              "https://i.imgur.com/HhrWRsG.jpg"
+            ]
+          },
+          {
+            "name": "Mini Metro",
+            "bundleIdentifier": "com.apple.compilers.l2vm.clang.1_0",
+            "developerName": "Dinosaur Polo Club",
+            "subtitle": "Build a better subway",
+            "version": "1.41",
+            "versionDate": "2020-04-11T14:30:00-07:00",
+            "versionDescription": "Mini Metro is now stopping at Barcelona! Carefully manage your train lines to keep this Mediterranean metropolis moving.",
+            "downloadURL": "https://dl.orangedox.com/PandaApp/8?dl=1",
+            "localizedDescription": "Mini Metro, the sublime subway simulator, now on iPhone and iPad.\n\n\n• Included in the App Store Best of 2016\n• Mac Game of the Year in over 30 countries\n• BAFTA-nominated\n• IGF award-winning\n• IGN Mobile Game of the Year nominee\n• Included in Gamespot's Best Mobile Games of 2016",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/67/7c/cb677c82-d048-ed44-a13a-a5fdb22f1b08/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/1024x1024.jpg",
+            "tintColor": "6592be",
+            "size": 132379023,
+            "screenshotURLs": [
+              "https://images-na.ssl-images-amazon.com/images/I/71M2LPAJWSL.png",
+              "https://pbs.twimg.com/media/Dz8boYtWkAIggb-.jpg"
+            ]
+          },
+          { 
+            "name": "Deezer++",
+            "bundleIdentifier": "com.deezer.Deezer",
+            "developerName": "JulioVerne",
+            "subtitle": "Unlocked all premium features!",
+            "version": "7.1.1",
+            "versionDate": "2020-04-17T14:30:00-07:00",
+            "versionDescription": "Warning: uninstall original Deezer app first!",
+            "downloadURL": "https://dl.orangedox.com/PandaApp/1?dl=1",
+            "localizedDescription": "Enjoy best-in-class features with the Deezer music player:\n\n• Stream the biggest global hits\n• 56 million songs to discover and enjoy\n• Lean back and find new tracks with Shuffle Mode\n• Get personalized recommendations and explore new music styles with Flow\n• Listen to any playlist you want or create your own\n\n• Add the tracks you love to your music collection in a single tap with Favorites\n• Organise your new music by artist or genre\n• Share your personal playlists and favorite tracks with others\n• Discover podcasts, radio stations, and audio channels\n\nWant more? Go limitless with Deezer Premium:\n\n• No ads\n• Offline Mode: download your favorite tracks or podcasts and listen to offline music anywhere\n• Unlimited skips\n• No song shuffling\n• Superior Sound Quality (320 kBps)\n• Music player is compatible with Amazon Alexa and connected devices",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/14/db/00/14db00c3-c794-0758-484b-5381de266aa8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.jpg",
+            "tintColor": "232323",
+            "size": 101205629,
+            "screenshotURLs": [
+              "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/fa/49/6f/fa496f97-69ab-32b7-be59-fc6f17f19f4f/pr_source.jpg/1000x1000bb.jpg",
+              "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/10/ef/ef10efe8-bb53-8a9b-ddab-c0dca42dbf04/pr_source.jpg/1000x1000bb.jpg",
+              "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b6/ee/4c/b6ee4c8f-b281-0f46-2497-b6c1456e8c8c/pr_source.jpg/1000x1000bb.jpg",
+              "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/29/bd/7b29bd0e-ec6a-17d7-0011-c8d3cd9fd179/pr_source.jpg/1000x1000bb.jpg",
+              "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c8/45/51/c8455113-d610-e9ba-fae5-7857c13a1eb9/pr_source.png/1000x1000bb.png",
+              "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/2e/71/78/2e7178c5-7cca-078f-01f4-96bbfa0977a5/pr_source.png/1000x1000bb.png",
+              "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/9e/2c/829e2c2b-3bf3-48e9-dec8-471380fd861c/pr_source.jpg/1000x1000bb.jpg",
+              "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/37/75/27/37752773-3283-6759-107c-1549e96e0dde/pr_source.png/1000x1000bb.png",
+              "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/24/8c/e7248cb2-58fb-e69d-4175-b38542e0e600/pr_source.jpg/1000x1000bb.jpg"
+            ]
+          },
+          {
+             "name": "Channels",
+             "bundleIdentifier": "com.channelsapp.channels",
+             "developerName": "@afsimsir",
+             "subtitle": "Watch live TV & events for free with Channels",
+             "version": "1.8.0",
+             "versionDate": "2020-03-24T00:00:00-00:00",
+             "versionDescription": "• Completely redesigned Events tab\n• Most streams will open in the default iOS player instead of in the browser\n• 'Open in VLC' support (VLC app has Chromecast)\n• Reduced app size by 85%! (168 MB -> 22 MB)\n• Smoother loading experience\n• Cleanup and bugfixes",
+             "downloadURL": "https://dl.orangedox.com/PandaApp5/2?dl=1",
+             "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.\nFeatures you will love:\n\n• Daily live events for NBA, NFL, Soccer, UFC and more\n• Categorized live TV channels\n• Daily updated Movies & TV Shows\n\n Follow @channelstheapp on Twitter for more information.",
+             "iconURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/appicon.png",
+             "tintColor": "0093E9",
+             "size": 9090644,
+             "screenshotURLs": [
+                      "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen1.png",
+                      "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
+                      "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen3.png",
+                      "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
+            ]
+          },
+         {
+            "name": "Reddit++",
+            "bundleIdentifier": "syto203.reddit.pp",
+           "developerName": "TFDidThatSay",
+            "subtitle": "Reddit with a little plus plus",
+            "version": "1.0",
+            "versionDate": "2020-03-24T14:00:00-07:00",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/TFDidThatSay-2020.12.0-0.4-x64-syto203-iOS13.ipa",
+            "localizedDescription": "Reddit without ads and you can see deleted comments",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/59/c3/70/59c37025-b68e-943b-49cf-99b49d171f02/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+            "tintColor": "D44E06",
+            "size": 55538241,
+            "beta": false,
+            "screenshotURLs": [
+              "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/14/ff/f6/14fff658-f33e-2326-4d15-c6e87ca65d3a/pr_source.png/157x0w.png",
+              "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c9/62/35/c96235f6-b3dd-1a4a-81b2-efc4de021559/pr_source.png/157x0w.png",
+              "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/f0/31/bd/f031bdb6-be88-5d09-1b2e-77b0c3cd7a07/pr_source.png/157x0w.png"
+            ]
+         },
+            {
+                "name": "iTorrent",
+                "bundleIdentifier": "ru.nonamedude.iTorrent",
+                "developerName": "XITRIX",
+                "subtitle": "Straightforward iOS torrent client app",
+                "version": "1.7.4.1",
+                "versionDate": "2020-03-19T14:30:00-07:00",
+                "versionDescription": "Fixed:\n\n• Background mode not work if zero speed limit disabled\n\nWhat's new:\n\n• Added https protocol support for trackers!\n• FTP server replaced by WebDAV, file sharing is now possible through a web browser\n• Added background stop when downloading at zero speed\n• Clicking on a notification now opens a specific window\n• UI improvements",
+                "downloadURL": "https://dl.orangedox.com/PandaApp/6?dl=1",
+                "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian",
+                "iconURL": "https://images.opencollective.com/itorrent/0ec0088/logo/256.png",
+                "tintColor": "e32b3c",
+                "size": 20132659,
+                "screenshotURLs": [
+                  "https://quarklibrary.imfast.io/iTorrent/image0.png",
+                  "https://quarklibrary.imfast.io/iTorrent/image2.png",
+                  "https://quarklibrary.imfast.io/iTorrent/image3.png"
+                ]
+              },
+              {
+                "name": "Power Phone Clean",
+                "bundleIdentifier": "com.appybois.powerphoneclean",
+                "developerName": "Appy Bois",
+                "subtitle": "Storage Full? Clean space and memory with the tap of a button!",
+                "version": "1.0",
+                "versionDate": "2020-04-03T12:00:00-00:00",
+                "versionDescription": "Initial AltStore release!",
+                "downloadURL": "https://dl.orangedox.com/PandaApp5/5?dl=1",
+                "localizedDescription": "Clean your phone, quick and easy!\n\nApple doesn't allow cache cleaning apps, or memory boost apps, but you can have both features now, thanks to the power of AltStore.\n\nFirst, Memory Boost will reclaim some of the memory being used by apps in the background, which makes your phone more responsive.\n\nSecond, Storage Boost will reclaim some of the space being used by temporary (or cached) files of apps, which gives you more room for photos and other things!",
+                "iconURL": "https://appybois.com/altstore/powerphoneclean.jpg",
+                "tintColor": "#27ae60",
+                "size": 7866837,
+                "screenshotURLs": [
+                  "https://appybois.com/altstore/screenshots/SS1.png",
+                  "https://appybois.com/altstore/screenshots/SS2.png",
+                  "https://appybois.com/altstore/screenshots/SS3.png"
+                ]
+              },
+              {
+               "name": "unc0ver",
+                "bundleIdentifier": "science.xnu.undecimus",
+                "developerName": "Pwn20wnd & Sam Bingner",
+                "subtitle": "The most advanced jailbreak tool.",
+                "version": "4.3.1",
+                "versionDate": "2020-03-08T14:30:00-07:00",
+                "versionDescription": "Made the following changes for the substitute code substitutor:\n\n• Bumped version to 4.3.1 due to a github bug causing an older file to be temporarily available\n• Add support for rebooting the userspace for the first time in a jailbreak\n• Add support for injecting to the entire userspace\n• Add support for looking up or registering services from the sandbox with the cy: prefix for developers\n• Reboot the userspace after jailbreaking\n• Make major design changes to preserve stock system performance\n• Fix random reboots, freezes, memory issues and any known problem that affected system services or apps\n• Fix persistent software update blocker on iOS 13 (Works in the jailed state too)\n• Fix a design problem that affected the Succession restore tool\n• Automatically re-enable software updates when restoring RootFS",
+                "downloadURL": "https://dl.orangedox.com/PandaApp/16?dl=1",
+                "localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatibility:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStability:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+                "iconURL": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+                "tintColor": "101216",
+                "size": 35483648,
+                "screenshotURLs": [
+                      "https://quarklibrary.imfast.io/unc0ver/image0.png",
+                  "https://quarklibrary.imfast.io/unc0ver/image1.png",
+                  "https://quarklibrary.imfast.io/unc0ver/image2.png"
+                ]
+              }
+            ],
+    "news": [
+        {}
+   ],
+   "userInfo": {}
+}
