@@ -9,16 +9,17 @@
             "subtitle": "noAds | freeSkip | Lyrics | Sposify  ALL-IN-ONE",
             "version": "1.0",
             "versionDate": "2020-03-24T00:00:00-00:00",
-            "versionDescription": "None",
+            "versionDescription": "",
             "downloadURL": "https://davidebri.github.io/iOS-tweakedApps/apps/Spotify/SpotUlt++.ipa",
             "localizedDescription": "Spotify but free",
             "iconURL": "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/spoitify.png",
             "tintColor": "52a04b",
             "size": 22000000,
             "screenshotURLs": [
-                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png",
-                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png",
-                "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"
+                "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/banner1.png",
+                "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/banner2.png",
+                "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/banner 3.png",
+                "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/banner 4.png"
             ]
         },
         {
@@ -33,7 +34,14 @@
             "localizedDescription": "McHack",
             "iconURL": "https://davidebri.github.io/iOS-tweakedApps/img/McHack/icon450_1217507712.png",
             "tintColor": "eae540",
-            "size": 22000000 
+            "size": 22000000,
+            "screenshotURLs": [
+              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/1.png",
+              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/2.png",
+              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/3.png",
+              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/4.png",
+              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/5.png"
+          ]
         },
         {
             "name": "Unfold++",
