@@ -4,7 +4,7 @@
     "apps": [
         {
             "name": "Spotify",
-            "bundleIdentifier": "com.spotify.client",
+            "bundleIdentifier": "syto203.spotultpp",
             "developerName": "powex X julioverne",
             "subtitle": "noAds | freeSkip | Lyrics | Sposify  ALL-IN-ONE",
             "version": "1.0",
@@ -23,9 +23,9 @@
         },
         {
             "name": "McHack",
-            "bundleIdentifier": "com.mcdonald.app",
+            "bundleIdentifier": "com.mchack.app",
             "developerName": "RD",
-            "subtitle": "Tutte le offerte sbloccate",
+            "subtitle": "Tutte le offerte sbloccate!",
             "version": "1.7",
             "versionDate": "2020-03-24T00:00:00-00:00",
             "versionDescription": "Dovrai usare le credenziali che trovi sul bot telegram per entrare e sbloccare tutte le offerte!",
