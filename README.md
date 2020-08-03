@@ -1,4 +1,4 @@
-# powex Repos for AltStore
+### powex Repos for AltStore sources
 Including: 
  + SpotUlt++
  + McHack
