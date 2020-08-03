@@ -12,7 +12,7 @@
             "versionDescription": "None",
             "downloadURL": "https://davidebri.github.io/iOS-tweakedApps/apps/Spotify/SpotUlt++.ipa",
             "localizedDescription": "Spotify but free",
-            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+            "iconURL": "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/spoitify.png",
             "tintColor": "52a04b",
             "size": 22000000,
             "screenshotURLs": [
@@ -31,7 +31,7 @@
             "versionDescription": "None.",
             "downloadURL": "https://davidebri.github.io/iOS-tweakedApps/apps/McHack/McHack_v1.7.1.ipa",
             "localizedDescription": "McHack",
-            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+            "iconURL": "https://davidebri.github.io/iOS-tweakedApps/img/McHack/icon450_1217507712.png",
             "tintColor": "eae540",
             "size": 22000000,
             "screenshotURLs": []
