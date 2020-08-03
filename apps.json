@@ -10,16 +10,16 @@
             "version": "6.0",
             "versionDate": "2020-08-03T00:00:00-00:00",
             "versionDescription": "",
-            "downloadURL": "https://davidebri.github.io/iOS-tweakedApps/apps/Spotify/SpotUlt++.ipa",
+            "downloadURL": "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/apps/Spotify/SpotUlt++.ipa",
             "localizedDescription": "Spotify but free",
-            "iconURL": "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/spoitify.png",
+            "iconURL": "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify/spoitify.png",
             "tintColor": "52a04b",
-            "size": 2184796,
+            "size": 44765654,
             "screenshotURLs": [
-                "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/banner1.png",
-                "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/banner2.png",
-                "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/banner3.png",
-                "https://davidebri.github.io/iOS-tweakedApps/img/Spotify/banner4.png"
+                "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify/banner1.png",
+                "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify/banner2.png",
+                "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify/banner3.png",
+                "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify/banner4.png"
             ]
         },
         {
@@ -30,17 +30,17 @@
             "version": "1.7.1",
             "versionDate": "2020-08-03T00:00:00-00:00",
             "versionDescription": "Dovrai usare le credenziali che trovi sul bot telegram per entrare e sbloccare tutte le offerte!",
-            "downloadURL": "https://davidebri.github.io/iOS-tweakedApps/apps/McHack/McHack_v1.7.1.ipa",
+            "downloadURL": "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/apps/McHack/McHack_v1.7.1.ipa",
             "localizedDescription": "McHack",
-            "iconURL": "https://davidebri.github.io/iOS-tweakedApps/img/McHack/icon450_1217507712.png",
+            "iconURL": "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify//McHack/icon450_1217507712.png",
             "tintColor": "eae540",
-            "size": 2184796,
+            "size": 23061213,
             "screenshotURLs": [
-              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/1.jpg",
-              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/2.jpg",
-              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/3.jpg",
-              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/4.jpg",
-              "https://davidebri.github.io/iOS-tweakedApps/img/McHack/5.jpg"
+              "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify//McHack/1.jpg",
+              "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify//McHack/2.jpg",
+              "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify//McHack/3.jpg",
+              "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify//McHack/4.jpg",
+              "https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/img/Spotify//McHack/5.jpg"
           ]
         },
         {
