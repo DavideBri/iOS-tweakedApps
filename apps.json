@@ -10,7 +10,7 @@
             "version": "1.0",
             "versionDate": "2020-03-24T00:00:00-00:00",
             "versionDescription": "None.",
-            "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa",
+            "downloadURL": "https://davidebri.github.io/iOS-tweakedApps/apps/Spotify/SpotUlt++.ipa",
             "localizedDescription": "Spotify but free",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
             "tintColor": "52a04b",
@@ -23,41 +23,18 @@
         },
         {
             "name": "McHack",
-            "bundleIdentifier": "com.spotify.client",
-            "developerName": "julioverne",
-            "subtitle": "Spotify but free",
-            "version": "1.0",
+            "bundleIdentifier": "com.mcdonald.app",
+            "developerName": "RD",
+            "subtitle": "Tutte le offerte sbloccate",
+            "version": "1.7",
             "versionDate": "2020-03-24T00:00:00-00:00",
             "versionDescription": "None.",
-            "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa",
-            "localizedDescription": "Spotify but free",
+            "downloadURL": "https://davidebri.github.io/iOS-tweakedApps/apps/McHack/McHack_v1.7.1.ipa",
+            "localizedDescription": "McHack",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-            "tintColor": "52a04b",
+            "tintColor": "eae540",
             "size": 22000000,
-            "screenshotURLs": [
-                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png",
-                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png",
-                "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"
-            ]
-        },
-        {
-            "name": "Calm",
-            "bundleIdentifier": "com.spotify.client",
-            "developerName": "julioverne",
-            "subtitle": "Spotify but free",
-            "version": "1.0",
-            "versionDate": "2020-03-24T00:00:00-00:00",
-            "versionDescription": "None.",
-            "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa",
-            "localizedDescription": "Spotify but free",
-            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-            "tintColor": "52a04b",
-            "size": 22000000,
-            "screenshotURLs": [
-                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png",
-                "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png",
-                "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"
-            ]
+            "screenshotURLs": []
         },
         {
             "name": "Unfold++",
@@ -325,8 +302,6 @@
                 ]
               }
             ],
-    "news": [
-        {}
-   ],
-   "userInfo": {}
+    "news": [],
+    "userInfo": {}
 }
