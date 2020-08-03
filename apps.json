@@ -5,7 +5,7 @@
         {
             "name": "Spotify",
             "bundleIdentifier": "com.spotify.client",
-            "developerName": "julioverne",
+            "developerName": "powex X julioverne",
             "subtitle": "Spotify but free",
             "version": "1.0",
             "versionDate": "2020-03-24T00:00:00-00:00",
@@ -28,13 +28,12 @@
             "subtitle": "Tutte le offerte sbloccate",
             "version": "1.7",
             "versionDate": "2020-03-24T00:00:00-00:00",
-            "versionDescription": "None.",
+            "versionDescription": "Dovrai usare le credenziali che trovi sul bot telegram per entrare e sbloccare tutte le offerte!",
             "downloadURL": "https://davidebri.github.io/iOS-tweakedApps/apps/McHack/McHack_v1.7.1.ipa",
             "localizedDescription": "McHack",
             "iconURL": "https://davidebri.github.io/iOS-tweakedApps/img/McHack/icon450_1217507712.png",
             "tintColor": "eae540",
-            "size": 22000000,
-            "screenshotURLs": []
+            "size": 22000000 
         },
         {
             "name": "Unfold++",
