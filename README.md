@@ -15,10 +15,11 @@ Including:
  + Power Phone Clean
  + unc0ver
 
+Vote [this poll](https://strawpoll.com/hfs7jvgrp) to let me know what tweaked app should i add first.
 
-More incoming..
+
+To add the source on your AltStore follow this steps:
 ---
-#### To add the source on your AltStore follow this steps:
 
 0. Copy the URL of the raw version of "app.json" -> [This One](https://raw.githubusercontent.com/DavideBri/iOS-tweakedApps/master/apps.json)
 1. Open your Altstore.
