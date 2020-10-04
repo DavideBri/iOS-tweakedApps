@@ -18,3 +18,4 @@ Including:
 
 More incoming..
  
+To add the source on your AltStore follow this steps:
