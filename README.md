@@ -1,6 +1,6 @@
 ### DavideBri Repos for AltStore sources
 ![last commit](https://img.shields.io/github/last-commit/DavideBri/iOS-tweakedApps?color=purple)
-
+![Prs](https://img.shields.io/badge/PRs-welcome-brightgreen)
 Including: 
  + SpotUlt++
  + McHack
